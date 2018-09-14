@@ -1,0 +1,17 @@
+{
+    "name": "ciaran/flex-deps",
+    "require": {
+        "symfony/flex": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Ciaran McNulty",
+            "email": "mail@ciaranmcnulty.com"
+        }
+    ],
+    "extra": {
+        "symfony": {
+            "require" : "^3.0|^4.0"
+        }
+    }
+}
